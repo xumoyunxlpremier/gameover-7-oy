@@ -217,8 +217,12 @@ function HowItWorks() {
                 </div>
 
                 <div className="work-step">
-                    <h3 className="step-heading">Powered by <a target="_blank" href="https://foziljonovxumoyun.uz">foziljonovxumoyun.uz</a></h3>
-                   
+                    <h3 className="step-heading">Powered by <a target="_blank" href="https://foziljonovxumoyun.uz">foziljonovxumoyun.uz</a>
+                    </h3>
+                    <br />
+                    <h3 className="step-heading">Keyboard inspired by <a target="_blank" href="https://botirdev.uz">botirdev.uz</a>
+                    </h3>
+
                 </div>
             </div>
         </div>
