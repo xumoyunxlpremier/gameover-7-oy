@@ -58,7 +58,7 @@ function DictionarySearch({ onSearch, currentWord, onInputChange }) {
         <input
           type="text"
           className="search-input"
-          placeholder="Xush kelibsiz ilhomlandim.uz, mazza qilib tekshiring)"
+          placeholder="Sizni qiziqtirgan so'zni kiriting"
           value={searchTerm}
           onChange={handleInputChange}
           aria-label="Search for a word"
